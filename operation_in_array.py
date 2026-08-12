@@ -56,3 +56,4 @@ print("arr.reshape(-1, 2):\n", arr.reshape(-1, 2))
 print("========== Another scores array ==========")
 scores = np.array([78, 85, 92, 66, 74])
 print("scores:", scores)
+
