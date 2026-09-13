@@ -49,7 +49,7 @@ elif year % 4 == 0:
 else:
     print("Not Leap Year")
 
-# Output :
+# Output:
 # Enter a Year :2025
 # Not Leap Year
  
