@@ -28,7 +28,28 @@ def check(a,b):
 X=int(input("Enter a first number :"))
 Y=int(input("Enter a second number :"))
 check(X,Y)
+
 # Output:
 # Enter a first number :7
 # Enter a second number :8
-# The given number's are not equal 
+# The given number's are not equal
+
+# 3) Check leap year or not :
+year=int(input("Enter a Year :"))
+
+if year % 400 == 0:
+    print("Leap Year")
+
+elif year % 100 == 0:
+    print("Not Leap Year")
+
+elif year % 4 == 0:
+    print("Leap Year")
+
+else:
+    print("Not Leap Year")
+
+# Output :
+# Enter a Year :2025
+# Not Leap Year
+ 
