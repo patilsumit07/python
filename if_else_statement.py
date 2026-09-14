@@ -1,4 +1,4 @@
-# 1) Largest three number:
+# 1) Largest three number:-
 a=int(input("Enter a first number :"))
 b=int(input("Enter a second number :"))
 c=int(input("Enter a third number :"))
@@ -13,7 +13,7 @@ else:
         print("larger number=",b)
     else:
         print(" larger number=",c)
-# Output:
+# Output:-
 # Enter a first number :85
 # Enter a second number :99
 # Enter a third number :68
