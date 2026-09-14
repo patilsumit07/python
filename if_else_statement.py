@@ -19,7 +19,7 @@ else:
 # Enter a third number :68
 # larger number= 99
 
-# 2) Check two number's are equal or not using function :
+# 2) Check two number's are equal or not using function :-
 def check(a,b):
     if a==b:
         print("The given both number's are equal")
@@ -29,12 +29,12 @@ X=int(input("Enter a first number :"))
 Y=int(input("Enter a second number :"))
 check(X,Y)
 
-# Output:
+# Output:-
 # Enter a first number :7
 # Enter a second number :8
 # The given number's are not equal
 
-# 3) Check leap year or not :
+# 3) Check leap year or not :-
 year=int(input("Enter a Year :"))
 
 if year % 400 == 0:
@@ -49,7 +49,7 @@ elif year % 4 == 0:
 else:
     print("Not Leap Year")
 
-# Output:
+# Output:-
 # Enter a Year :2025
 # Not Leap Year
  
