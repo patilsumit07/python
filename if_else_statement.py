@@ -19,6 +19,7 @@ else:
 # Enter a third number :68
 # larger number= 99
 
+
 # 2) Check two number's are equal or not using function :-
 def check(a,b):
     if a==b:
@@ -33,6 +34,7 @@ check(X,Y)
 # Enter a first number :7
 # Enter a second number :8
 # The given number's are not equal
+
 
 # 3) Check leap year or not :-
 year=int(input("Enter a Year :"))
@@ -52,6 +54,7 @@ else:
 # Output:-
 # Enter a Year :2025
 # Not Leap Year
+
 
 # 4)Prime number in given range :-
 start = int(input("Enter a Start Number: "))
