@@ -1,5 +1,5 @@
 # Fibonacci sequence up to n terms :-
-n=int(input("Enter a terms :"))
+n=int(input("Enter a terms :-"))
 a=0
 b=1
 print("Fibonacci Series")
