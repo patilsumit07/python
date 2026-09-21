@@ -79,3 +79,16 @@ for num in range(start, end + 1):
 # 3
 # 5
 # 7
+
+
+# Takes a number input and converts it to an integer :-
+age = int(input("Enter your age: "))
+
+if age >= 18:
+    print("You are eligible to vote.")
+else:
+    print("You are too young to vote.")
+
+# Output :-
+# Enter your age: 20
+# You are eligible to vote.
