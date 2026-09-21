@@ -35,3 +35,24 @@ for i in range(1,11):
 # 1 x 9 = 9
 # 1 x 10 = 10
 # like this table 1 to 10     
+
+
+# search fruits are available or not :-
+available_fruits = ["apple", "banana", "mango", "orange"]
+
+search = input("What fruit do you want to buy?\n ").lower()
+found = False
+
+for fruit in available_fruits:
+    if fruit == search:
+        found = True
+
+if found:
+    print("Yes, that fruit is in stock!")
+else:
+    print("Sorry, we are out of stock.")
+
+# Output :-
+# What fruit do you want to buy?
+    # apple
+# Yes, that fruit is in stock!
