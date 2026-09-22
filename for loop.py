@@ -34,7 +34,7 @@ for i in range(1,11):
 # 1 x 8 = 8
 # 1 x 9 = 9
 # 1 x 10 = 10
-# like this table 1 to 10     
+# like this table 1 to 10 so on     
 
 
 # search fruits are available or not :-
