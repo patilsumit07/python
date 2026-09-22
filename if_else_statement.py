@@ -13,6 +13,7 @@ else:
         print("larger number=",b)
     else:
         print(" larger number=",c)
+        
 # Output:-
 # Enter a first number :85
 # Enter a second number :99
@@ -90,5 +91,5 @@ else:
     print("You are too young to vote.")
 
 # Output :-
-# Enter your age: 20
+# Enter your age: 25
 # You are eligible to vote.
