@@ -56,3 +56,15 @@ else:
 # What fruit do you want to buy?
     # apple
 # Yes, that fruit is in stock!
+
+
+# This loop runs 5 times, from 0 to 4 :-
+for i in range(5):
+    print(f"Iteration number: {i}")
+
+# Output :-
+# Iteration number: 0
+# Iteration number: 1
+# Iteration number: 2
+# Iteration number: 3
+# Iteration number: 4
