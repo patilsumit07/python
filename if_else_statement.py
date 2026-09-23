@@ -93,3 +93,16 @@ else:
 # Output :-
 # Enter your age: 25
 # You are eligible to vote.
+
+# If you need to check more than two alternatives, you can add elif (short for else-if) statements in the middle:-
+
+score = 85
+
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B") 
+elif score >= 70:
+    print("Grade: C")
+else:
+    print("Grade: F")
