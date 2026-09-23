@@ -106,3 +106,6 @@ elif score >= 70:
     print("Grade: C")
 else:
     print("Grade: F")
+
+# Output :-
+# Grade: B
