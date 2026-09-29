@@ -68,3 +68,28 @@ for i in range(5):
 # Iteration number: 2
 # Iteration number: 3
 # Iteration number: 4
+
+
+# Loop Control: break and continue
+# Using break
+for num in range(10):
+    if num == 5:
+        break  # Stops the loop completely when it hits 5
+    print(num)
+
+# Using continue
+for num in range(5):
+    if num == 2:
+        continue  # Skips printing 2 and moves to 3
+    print(num)
+
+# Output :-
+# 0
+# 1
+# 2
+# 3
+# 4
+# 0
+# 1
+# 3
+# 4
