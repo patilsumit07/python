@@ -1,4 +1,4 @@
-# Fibonacci sequence up to n terms :-
+# 1)Fibonacci sequence up to n terms :-
 n=int(input("Enter a terms :-"))
 a=0
 b=1
@@ -15,7 +15,7 @@ for i in range(n):
 # 0       1       1       2       3
 
 
-# Muliplication table from 1 to 10 :-
+#2) Muliplication table from 1 to 10 :-
 for i in range(1,11):
     print("\nTable of",i)
 
@@ -37,7 +37,7 @@ for i in range(1,11):
 # like this table 1 to 10 so on     
 
 
-# search fruits are available or not :-
+# 3)search fruits are available or not :-
 available_fruits = ["apple", "banana", "mango", "orange"]
 
 search = input("What fruit do you want to buy?\n ").lower()
@@ -58,7 +58,7 @@ else:
 # Yes, that fruit is in stock!
 
 
-# This loop runs 5 times, from 0 to 4 :-
+# 4)This loop runs 5 times, from 0 to 4 :-
 for i in range(5):
     print(f"Iteration number: {i}")
 
@@ -70,7 +70,7 @@ for i in range(5):
 # Iteration number: 4
 
 
-# Loop Control: break and continue
+# 5)Loop Control: break and continue :-
 # Using break
 for num in range(10):
     if num == 5:
