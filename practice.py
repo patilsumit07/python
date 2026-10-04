@@ -1,4 +1,4 @@
-input_user=input("Enter a Numbers :");
+input_user=input("Enter  Numbers :");
 digit_to_remove=input("Enter a Digit to Remove :")
 result=""
 for Character in input_user :
