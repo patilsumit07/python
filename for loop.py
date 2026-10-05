@@ -96,10 +96,19 @@ for num in range(5):
 
 
 # 6)The range(start, stop, step) function allows you to skip numbers or count backward:-
-# Skip by 2: Prints 1, 3, 5, 7, 9
+
 for i in range(1, 10, 2):
     print(i)
 
-# Count backward: Prints 3, 2, 1
 for i in range(3, 0, -1):
     print(i)
+
+# Output
+# 1
+# 3
+# 5
+# 7
+# 9
+# 3
+# 2
+# 1
