@@ -1,4 +1,4 @@
-# 1) Largest three number:-
+# 1) Largest three number :-
 a=int(input("Enter a first number :"))
 b=int(input("Enter a second number :"))
 c=int(input("Enter a third number :"))
@@ -94,7 +94,7 @@ else:
 # Enter your age: 25
 # You are eligible to vote.
 
-# If you need to check more than two alternatives, you can add elif (short for else-if) statements in the middle:-
+# If you need to check more than two alternatives, you can add elif (short for else-if) statements in the middle :-
 
 score = 85
 
